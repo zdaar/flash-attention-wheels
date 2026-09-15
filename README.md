@@ -19,13 +19,13 @@ crashes inside the kernel call, so match the PyTorch column exactly.
 Linux / CUDA 13 / PyTorch 2.14 / Python 3.12:
 
 ```bash
-pip install https://github.com/zdaar/flash-attention-windows-wheels/releases/download/v2.8.3-linux-cu13-torch2.14/flash_attn-2.8.3%2Bcu13torch2.14-cp312-cp312-linux_x86_64.whl
+pip install https://github.com/zdaar/flash-attention-wheels/releases/download/v2.8.3-linux-cu13-torch2.14/flash_attn-2.8.3%2Bcu13torch2.14-cp312-cp312-linux_x86_64.whl
 ```
 
 Windows / CUDA 12.8 / PyTorch 2.9 / Python 3.11:
 
 ```bash
-pip install https://github.com/zdaar/flash-attention-windows-wheels/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1%2Bcu128torch2.9-cp311-cp311-win_amd64.whl
+pip install https://github.com/zdaar/flash-attention-wheels/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1%2Bcu128torch2.9-cp311-cp311-win_amd64.whl
 ```
 
 ## Build Info
